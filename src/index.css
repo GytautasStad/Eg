@@ -1,0 +1,7 @@
+img{
+    width: 25em;
+}
+
+.skelbimas::after{
+    background-color: aqua;
+}
